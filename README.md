@@ -7,8 +7,9 @@ This Django DRF application allows a farmer to manage animals on their farm. The
 1. Clone the repository and navigate to the project directory:
 
     ```bash
-    git clone <repository_url>
-    cd farm
+    git clone [Django-React](https://github.com/SohaibAnwaar/Django-React)
+
+    cd Django-React
     ```
 
 2. Create and activate a virtual environment:
@@ -42,5 +43,6 @@ This Django DRF application allows a farmer to manage animals on their farm. The
 
 ## API Endpoints
 
-- List and Add Animals: `http://127.0.0.1:8000/api/animals/`
-- Remove Animal: `http://127.0.0.1:8000/api/animals/<animal_id>/`
+- List and Add Animals: [http://127.0.0.1:8000/api/animals/](http://127.0.0.1:8000/api/animals/)
+- Remove Animal: [http://127.0.0.1:8000/api/animals/<animal_id>/](http://127.0.0.1:8000/api/animals/<animal_id>/)
+
